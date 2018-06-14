@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/style.css">
+    
+</head>
+<body>
+    <section class="header"> 
+
+	<div class="fondo"></div> 
+
+    <p>Equipo</p>	
+    <p>Blog</p>
+    <p>Contacto</p>
+
+	<h1>COMIENZA UNA NUEVA VIDA Y <br> ÚNETE AL MUNDO <br> TECNOLÓGICO</h1>
+
+	<p>Comienza acá</p>
+	<p>Más Info</p>
+
+	<p>Hay una escasez gigante de desarrolladores en el mundo y más aún en Latinoamaerica, se necesitan <br> desarrolladores y Tú puedes ser uno!</p>
+
+</div> </div>
+
+   </section>
+
+   <section class="descripción">
+		<h2>EL BOOTCAMP DE PROGRAMACIÓN MAS GRANDE DE LATINOAMÉRICA</h2>
+
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est id recusandae, doloribus, inventore beatae tempora quas adipisci obcaecati possimus quaerat quod nesciunt aut. <br> A alias amet commodi, suscipit explicabo pariatur.</p>
+
+   </section>
+
+   <section class="pedir_info">
+ 
+        <h3>SOLICITA INFORMACIÓN E INSCRIBETE</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur maiores delectus, omnis, repellendus illo iure sunt ullam <br/> nihil dignissimos, recusandae modi nostrum repellat excepturi magnam consectetur</p>
+        <button>Inscribete! </button>
+        <p>vive la experiencia </p>
+
+         </section>
+   <section class="inscríbete">
+       <div class="primer">
+           <p>Contacto</p>
+           <p><b>Desafio Latam</p></b>
+           <P>Ezequias Allende 2351</P>
+           <p>P: + 568 5117 7975</p>
+           <P></P>
+           <P>inscripciones@desafiolatam.com</P>
+       </div>
+       <div class="segundo">
+           <p>Suscribete</p>
+           <p>Lorem ipsum dolor sit amet.</p>
+           <p>ingresa tu email - enviar</p>
+       </div>
+   </section>
+   <section class="footer">
+       <h4>DESAFIOLATAM 2016 - CURSO FULLSTACK G5</h4>
+   </section>
+</body>
+</html>
